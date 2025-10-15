@@ -19,13 +19,13 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.collab-proxy@2.10.0": {
+    "com.unity.collab-proxy@2.9.2": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
-      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.collab-proxy@1e5e48aff19d",
-      "fingerprint": "1e5e48aff19daaf7562fad196714be852e56fff3",
+      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.collab-proxy@8f3c30ecd081",
+      "fingerprint": "8f3c30ecd081c36da7c76793dbf29df18a0d828a",
       "editorCompatibility": "2021.3.0f1",
-      "version": "2.10.0",
+      "version": "2.9.2",
       "source": "registry",
       "testable": false
     },
@@ -46,16 +46,6 @@
       "fingerprint": "198cdf337d13c83ca953581515630d66b779e92b",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.23",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.inputsystem@1.14.2": {
-      "name": "com.unity.inputsystem",
-      "displayName": "Input System",
-      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5",
-      "fingerprint": "be6c4fd0abf5b9b45f956b97294032a67f3c2f4d",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.14.2",
       "source": "registry",
       "testable": false
     },
@@ -109,14 +99,14 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.visualscripting@1.9.7": {
-      "name": "com.unity.visualscripting",
-      "displayName": "Visual Scripting",
-      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485",
-      "fingerprint": "6279e2b7c4858e56cca7f367cd38c49ef66778c9",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.9.7",
-      "source": "registry",
+    "com.unity.visualeffectgraph@17.0.4": {
+      "name": "com.unity.visualeffectgraph",
+      "displayName": "Visual Effect Graph",
+      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.visualeffectgraph@cdd85b2ba3b7",
+      "fingerprint": "cdd85b2ba3b76155a060ac56f910dd6050c473d4",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
       "testable": false
     },
     "com.unity.modules.accessibility@1.0.0": {
@@ -391,13 +381,13 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.ext.nunit@2.0.5": {
-      "name": "com.unity.ext.nunit",
-      "displayName": "Custom NUnit",
-      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
-      "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "2.0.5",
+    "com.unity.shadergraph@17.0.4": {
+      "name": "com.unity.shadergraph",
+      "displayName": "Shader Graph",
+      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.shadergraph@bbc2145cfdb2",
+      "fingerprint": "bbc2145cfdb229fd25bf78bc98da118d21018bc2",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
       "source": "builtin",
       "testable": false
     },
@@ -411,13 +401,13 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.shadergraph@17.0.4": {
-      "name": "com.unity.shadergraph",
-      "displayName": "Shader Graph",
-      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.shadergraph@bbc2145cfdb2",
-      "fingerprint": "bbc2145cfdb229fd25bf78bc98da118d21018bc2",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "displayName": "Custom NUnit",
+      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
+      "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
       "source": "builtin",
       "testable": false
     },
@@ -429,16 +419,6 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
       "source": "builtin",
-      "testable": false
-    },
-    "com.unity.searcher@4.9.3": {
-      "name": "com.unity.searcher",
-      "displayName": "Searcher",
-      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
-      "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
-      "editorCompatibility": "2019.1.0a1",
-      "version": "4.9.3",
-      "source": "registry",
       "testable": false
     },
     "com.unity.burst@1.8.24": {
@@ -479,6 +459,16 @@
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
       "source": "builtin",
+      "testable": false
+    },
+    "com.unity.searcher@4.9.3": {
+      "name": "com.unity.searcher",
+      "displayName": "Searcher",
+      "resolvedPath": "C:\\Users\\lovba\\OneDrive\\桌面\\Creative-Core-Post-Processing\\Unity-Creative-Core-Post-Processing\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
+      "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
+      "editorCompatibility": "2019.1.0a1",
+      "version": "4.9.3",
+      "source": "registry",
       "testable": false
     },
     "com.unity.nuget.mono-cecil@1.11.4": {
