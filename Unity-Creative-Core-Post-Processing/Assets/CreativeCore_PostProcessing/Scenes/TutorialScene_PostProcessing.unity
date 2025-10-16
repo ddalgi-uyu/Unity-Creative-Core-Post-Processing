@@ -372,9 +372,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IsGlobal: 0
   priority: 0
-  blendDistance: 1
+  blendDistance: 5
   weight: 1
-  sharedProfile: {fileID: 0}
+  sharedProfile: {fileID: 11400000, guid: 1eb6f1c2ae7dc634883de2e0da014a48, type: 2}
 --- !u!65 &476365242
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -394,8 +394,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 6.0962257, y: 6.848056, z: 7.113843}
+  m_Center: {x: -0.11401653, y: -1.9012103, z: -0.0396142}
 --- !u!4 &476365243
 Transform:
   m_ObjectHideFlags: 0
@@ -405,7 +405,7 @@ Transform:
   m_GameObject: {fileID: 476365240}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.3, y: 2.63, z: -0.767}
+  m_LocalPosition: {x: 6.04, y: 3.95, z: 9.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1792,7 +1792,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 1eb6f1c2ae7dc634883de2e0da014a48, type: 2}
+  sharedProfile: {fileID: 0}
 --- !u!4 &1762117890
 Transform:
   m_ObjectHideFlags: 0
